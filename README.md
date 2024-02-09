@@ -1,5 +1,5 @@
-# OptimisationD-terministe
-Directions de descente
+# OptimisationDeterministe
+Descent directions
 
 import numpy as np
 
